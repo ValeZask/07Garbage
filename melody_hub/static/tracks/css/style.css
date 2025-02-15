@@ -1,0 +1,21 @@
+/* Устанавливаем цвет фона для всей страницы */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+/* Стили для заголовка h1 */
+h1 {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background-color: darkblue;
+    border-radius: 10px;
+}
+
+/* Пример для параграфа */
+p {
+    color: darkblue;
+    font-size: 18px;
+    text-align: center;
+}
